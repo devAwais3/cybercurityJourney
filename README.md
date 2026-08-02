@@ -1,4 +1,4 @@
-# CYBERSECURITY BASICS JOURNEY
+# CYBERSECURITY JOURNEY
 This repository contains everything from my cybersecurity basics learning journey — day-to-day notes, hands-on practice, and progress as I build my foundational skills.
 
 ## ABOUT
