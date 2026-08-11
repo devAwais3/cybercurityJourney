@@ -552,6 +552,8 @@ It does **not** mean the whole Linux system can only have 1024 open files.
 
 The whole system can have many processes, each with their own file descriptors.
 
+![example figure](assets/linuxLimits.png)
+
 ## Open File Descriptor vs File
 
 This distinction is extremely important.
